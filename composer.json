@@ -1,0 +1,19 @@
+{
+  "name": "kachit/config-consul",
+  "description": "Consul adapter",
+  "keywords": ["config"],
+  "license": "MIT",
+  "require": {
+    "php": ">=7.0",
+    "kachit/config": "1.*",
+    "sensiolabs/consul-php-sdk": "^3.0"
+  },
+  "require-dev": {
+    "codeception/codeception": ">=2.2 <2.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "Kachit\\Config\\Consul\\": "./src/"
+    }
+  }
+}
