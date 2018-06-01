@@ -1,2 +1,2 @@
-# config-consul
+# Config consul adapter
 Config consul adapter

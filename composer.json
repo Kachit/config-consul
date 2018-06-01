@@ -1,7 +1,7 @@
 {
   "name": "kachit/config-consul",
   "description": "Consul adapter",
-  "keywords": ["config"],
+  "keywords": ["config", "consul"],
   "license": "MIT",
   "require": {
     "php": ">=7.0",
